@@ -1,8 +1,11 @@
 {
   "name": "jm-spy",
-  "main": "",
-  "test": "",
-  "version": "0.0.6",
+  "main": "index.js",
+  "version": "0.0.7",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:christineRR/jm-spy.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "coffee-script": "*",
@@ -10,6 +13,9 @@
     "expect.js": "*",
     "mocha": "*",
     "istanbul": "*"
+  },
+  "directories": {
+    "example": "examples"
   },
   "engines": [
     "node >=0.8.14"
@@ -20,7 +26,7 @@
   },
   "readme": "# Spy module stripped from the jasmine.",
   "readmeFilename": "README.md",
-  "description": "",
+  "description": "a spy module for sync and async from jasmine spy module",
   "_id": "jm-spy@0.0.6",
   "_from": "jm-spy@*"
 }
