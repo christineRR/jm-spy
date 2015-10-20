@@ -1,7 +1,7 @@
 {
   "name": "jmspy",
   "main": "index.js",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "repository": {
     "type": "git",
     "url": "git@github.com:christineRR/jmspy.git"
@@ -24,6 +24,10 @@
     "test": "make test-cov",
     "prepublish": "make release"
   },
-  "readmeFilename": "README.md",
-  "description": "a spy module for sync and async from jasmine spy module"
+  "description": "a spy module for sync and async from jasmine spy module",
+  "keywords": [
+    "jasmine",
+    "spy",
+    "mock"
+  ]
 }
