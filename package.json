@@ -24,7 +24,6 @@
     "test": "make test-cov",
     "prepublish": "make release"
   },
-  "readme": "# Spy module stripped from the jasmine.",
   "readmeFilename": "README.md",
   "description": "a spy module for sync and async from jasmine spy module"
 }
