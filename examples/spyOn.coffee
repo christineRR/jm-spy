@@ -1,5 +1,5 @@
 expect = require 'expect.js'
-jmspy = require 'jm-spy'
+jmspy = require 'jmspy'
 
 Person = 
   name: 'Tom'
