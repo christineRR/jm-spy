@@ -1,4 +1,4 @@
-# jmspy [![Build Status](https://travis-ci.org/christineRR/jmspy-1.svg?branch=master)](https://travis-ci.org/christineRR/jmspy-1)
+# jmspy [![Build Status](https://travis-ci.org/christineRR/jmspy.svg?branch=master)](https://travis-ci.org/christineRR/jmspy)
 
 > jmspy将[Jasmine 2.0](http://jasmine.github.io/2.0/introduction.html)中的spies封装成独立的模块，用于单元测试中对象方法的mock服务，以及跟踪记录被监测方法的调用及参数情况
 
